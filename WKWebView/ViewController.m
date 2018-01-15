@@ -41,7 +41,7 @@
     
     // Setup the URL & login info
     NSString* loginUrl = @"https://your_website_domain/login.php";
-    NSString* sessionID = @"73967";
+    NSString* sessionID = @"73967Testing";
     NSString* studentName = @"my_name";
     NSString* studentID = @"my_id";
     
